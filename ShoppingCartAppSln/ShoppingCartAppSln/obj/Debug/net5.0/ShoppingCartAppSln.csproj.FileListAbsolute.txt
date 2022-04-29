@@ -17,3 +17,22 @@ C:\Exercises\repos\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\obj\Deb
 C:\Exercises\repos\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\obj\Debug\net5.0\ShoppingCartAppSln.pdb
 C:\Exercises\repos\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\obj\Debug\net5.0\ShoppingCartAppSln.genruntimeconfig.cache
 C:\Exercises\repos\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\obj\Debug\net5.0\ref\ShoppingCartAppSln.dll
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\obj\Debug\net5.0\ShoppingCartAppSln.csproj.AssemblyReference.cache
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\obj\Debug\net5.0\ShoppingCartAppSln.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\obj\Debug\net5.0\ShoppingCartAppSln.AssemblyInfoInputs.cache
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\obj\Debug\net5.0\ShoppingCartAppSln.AssemblyInfo.cs
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\obj\Debug\net5.0\ShoppingCartAppSln.csproj.CoreCompileInputs.cache
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\obj\Debug\net5.0\ShoppingCartAppSln.dll
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\obj\Debug\net5.0\refint\ShoppingCartAppSln.dll
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\obj\Debug\net5.0\ShoppingCartAppSln.pdb
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\bin\Debug\net5.0\ShoppingCartAppSln.exe
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\bin\Debug\net5.0\ShoppingCartAppSln.deps.json
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\bin\Debug\net5.0\ShoppingCartAppSln.runtimeconfig.json
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\bin\Debug\net5.0\ShoppingCartAppSln.runtimeconfig.dev.json
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\bin\Debug\net5.0\ShoppingCartAppSln.dll
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\bin\Debug\net5.0\ShoppingCartAppSln.pdb
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\bin\Debug\net5.0\ShoppingLibrary.dll
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\bin\Debug\net5.0\ShoppingLibrary.pdb
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\obj\Debug\net5.0\ShoppingCartAppSln.csproj.CopyComplete
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\obj\Debug\net5.0\ShoppingCartAppSln.genruntimeconfig.cache
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ShoppingCartAppSln\obj\Debug\net5.0\ref\ShoppingCartAppSln.dll

@@ -10,3 +10,15 @@ C:\Exercises\repos\ShoppingCartApp\ShoppingCartAppSln\ClassLibrary1\obj\Debug\ne
 C:\Exercises\repos\ShoppingCartApp\ShoppingCartAppSln\ClassLibrary1\obj\Debug\net5.0\refint\ShoppingLibrary.dll
 C:\Exercises\repos\ShoppingCartApp\ShoppingCartAppSln\ClassLibrary1\obj\Debug\net5.0\ShoppingLibrary.pdb
 C:\Exercises\repos\ShoppingCartApp\ShoppingCartAppSln\ClassLibrary1\obj\Debug\net5.0\ref\ShoppingLibrary.dll
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ClassLibrary1\bin\Debug\net5.0\ShoppingLibrary.deps.json
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ClassLibrary1\bin\Debug\net5.0\ShoppingLibrary.dll
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ClassLibrary1\bin\Debug\net5.0\ShoppingLibrary.pdb
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ClassLibrary1\obj\Debug\net5.0\ShoppingLibrary.csproj.AssemblyReference.cache
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ClassLibrary1\obj\Debug\net5.0\ShoppingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ClassLibrary1\obj\Debug\net5.0\ShoppingLibrary.AssemblyInfoInputs.cache
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ClassLibrary1\obj\Debug\net5.0\ShoppingLibrary.AssemblyInfo.cs
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ClassLibrary1\obj\Debug\net5.0\ShoppingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ClassLibrary1\obj\Debug\net5.0\ShoppingLibrary.dll
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ClassLibrary1\obj\Debug\net5.0\refint\ShoppingLibrary.dll
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ClassLibrary1\obj\Debug\net5.0\ShoppingLibrary.pdb
+C:\Users\ASIPHE\Desktop\MSP Assignment3\ShoppingCartApp\ShoppingCartAppSln\ClassLibrary1\obj\Debug\net5.0\ref\ShoppingLibrary.dll

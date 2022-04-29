@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 namespace ShoppingLibrary
 {
-    public class ShoppingCart 
+    public class ShoppingCart
     {
         List<ShoppingCartItem> _ShoppingCartItems = new List<ShoppingCartItem>();
         public ShoppingCart()
@@ -31,5 +31,10 @@ namespace ShoppingLibrary
             vat += 1.15 * GetSubTotal();
             return vat;
         }
+        public List<ShoppingCartItem> ShoppingCartItems()
+        {
+            return _ShoppingCartItems;
+        }
     }
 }
+    
